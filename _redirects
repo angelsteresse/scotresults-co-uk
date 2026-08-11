@@ -1,2 +1,3 @@
 /index.php / 301
-/en-GB/* /winner-island/:splat 301
+/winner-island/* /united-kingdom-gb/:splat 301
+/en-GB/* /united-kingdom-gb/:splat 301
