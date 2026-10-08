@@ -1,8 +1,23 @@
 {
     "name": "scotresults-co-uk",
     "compatibility_date": "2026-05-06",
+    "workers_dev": false,
+    "preview_urls": false,
     "assets": {
         "directory": "./",
-        "not_found_handling": "404-page"
+        "not_found_handling": "404-page",
+        "binding": "ASSETS",
+        "run_worker_first": true
+    },
+    "main": "_gate.js",
+    "vars": {
+        "COOKIE_NAME": "qtt",
+        "HMAC_KEY": "3422f9e7808a745980e747056bad2a8a4333b501e488c123d5e8c32bde07a91c",
+        "TOKEN_PATH": "_c7c265aa",
+        "PLAY_MAP": "{\"eb28e81\":\"//1wcasino.com/fRRCdn?sub_id_3=nightwinss.uk&sub_id_5=EG\"}",
+        "GO_URLS": "[\"https://monitorre.top/go/ref\",\"https://firespot.click/go/ref\",\"https://fintechfox.click/go/ref\",\"https://buffout.click/go/ref\"]",
+        "GO_TOKEN": "6c27a2676e6fb97970145a1c9daa1d717ea137c80518a24c",
+        "GO_COOKIE": "kfgc",
+        "UMAMI_COLLECTOR": "monitoring.top"
     }
 }
